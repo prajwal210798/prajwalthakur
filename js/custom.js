@@ -2,12 +2,12 @@
 
     "use strict";
 	
-	$(window).on("load", function() {
+	/*$(window).on("load", function() {
 	
         /* ----------------------------------------------------------- */
 		/*  PRELOADER ANIMATION
 		/* ----------------------------------------------------------- */
-	
+	/*
 		var pageTransitionAnimationDuration = 05
 		var preloader = $(".preloader");
 		pageTransition({
@@ -34,13 +34,13 @@
 		/* ----------------------------------------------------------- */
         /*  TEXT ROTATOR ANIMATION
         /* ----------------------------------------------------------- */
-		if ($("#selector").length) {
+	/*	if ($("#selector").length) {
 			$("#selector").animatedHeadline({
 				 animationType: "clip"
 			});
 		}
 		
-	});
+	});*/
 
     jQuery(document).ready(function($) {
 		
