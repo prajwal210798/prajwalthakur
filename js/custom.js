@@ -2,13 +2,13 @@
 
     "use strict";
 	
-	/*$(window).on("load", function() {
+	$(window).on("load", function() {
 	
         /* ----------------------------------------------------------- */
 		/*  PRELOADER ANIMATION
 		/* ----------------------------------------------------------- */
-	/*
-		var pageTransitionAnimationDuration = 05
+	
+		var pageTransitionAnimationDuration = 500
 		var preloader = $(".preloader");
 		pageTransition({
 			target: document.querySelector('.page'),
@@ -34,13 +34,13 @@
 		/* ----------------------------------------------------------- */
         /*  TEXT ROTATOR ANIMATION
         /* ----------------------------------------------------------- */
-	/*	if ($("#selector").length) {
+		if ($("#selector").length) {
 			$("#selector").animatedHeadline({
 				 animationType: "clip"
 			});
 		}
 		
-	});*/
+	});
 
     jQuery(document).ready(function($) {
 		
