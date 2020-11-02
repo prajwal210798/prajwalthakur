@@ -8,7 +8,7 @@
 		/*  PRELOADER ANIMATION
 		/* ----------------------------------------------------------- */
 	
-		var pageTransitionAnimationDuration = 10
+		var pageTransitionAnimationDuration = 05
 		var preloader = $(".preloader");
 		pageTransition({
 			target: document.querySelector('.page'),
