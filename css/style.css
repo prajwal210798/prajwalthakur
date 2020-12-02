@@ -531,7 +531,7 @@ body.dark #loader-wrapper .loader-section {
   margin-top: 0;
   margin-left: -100vw;
   animation-name: progess_animation;
-  animation-duration: 1.5s;
+  animation-duration: 0.5s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
   width: 100vw;
